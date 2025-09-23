@@ -4,7 +4,7 @@ A lightweight desktop application that monitors ping to Counter-Strike 2 servers
 
 ## Screenshot
 
-![CS2 Ping Monitor](screenshot.png)
+![CS2 Ping Monitor](screenshots/screenshot.png)
 
 *Real-time ping monitoring with dark theme and server status indicators*
 
@@ -85,7 +85,7 @@ This application continuously monitors your internet connection to Counter-Strik
 ## Gallery
 
 ### Main Interface
-![Main Interface](screenshot.png)
+![Main Interface](screenshots/screenshot.png)
 
 ### Features Overview
 - **Real-time Updates**: Ping values refresh every second
