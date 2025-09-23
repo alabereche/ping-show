@@ -82,11 +82,6 @@ This application continuously monitors your internet connection to Counter-Strik
 - **All servers show ERROR**: This is normal for CS2 servers
 - **Window won't move**: Click and drag from any part of the window
 
-## Gallery
-
-### Main Interface
-![Main Interface](screenshots/screenshot.png)
-
 ### Features Overview
 - **Real-time Updates**: Ping values refresh every second
 - **Server Categories**: Organized by region (Europe, MENA, Gaming)
